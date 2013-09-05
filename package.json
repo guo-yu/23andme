@@ -1,0 +1,22 @@
+{
+  "name": "23andme",
+  "version": "0.0.0",
+  "description": "a api wrapper of api.23andme.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/23andme.git"
+  },
+  "keywords": [
+    "23andme",
+    "gene",
+    "dna"
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/23andme/issues"
+  }
+}
