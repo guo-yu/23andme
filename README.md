@@ -1,4 +1,4 @@
-## 23andme ![npm](https://badge.fury.io/js/23andme.png)
+## ![logo](http://ww4.sinaimg.cn/large/61ff0de3gw1e8e10yrxorj200p01e3ya.jpg) 23andme ![npm](https://badge.fury.io/js/23andme.png)
 
 a api wrapper of api.23andme.com by [turing](https://npmjs.org/~turing) 
 
@@ -11,11 +11,11 @@ $ sudo npm install 23andme -g
 
 ### Example
 ````javascript
-var 23andme = require('23andme');
+var api23andme = require('23andme');
 ````
 
 ### API
-
+check this file: `index.js`
 
 ### Contributing
 - Fork this repo
@@ -50,4 +50,4 @@ THE SOFTWARE.
 
 ---
 ![docor](https://cdn1.iconfinder.com/data/icons/windows8_icons_iconpharm/26/doctor.png)
-generated using [docor](https://github.com/turingou/docor.git) @ 0.0.5. brought to you by [[object Object]](https://npmjs.org/~turing)
+generated using [docor](https://github.com/turingou/docor.git) @ 0.1.0. brought to you by [turingou](https://github.com/turingou)

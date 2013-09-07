@@ -1,7 +1,9 @@
 {
   "name": "23andme",
   "version": "0.0.0",
+  "logo": "http://ww4.sinaimg.cn/large/61ff0de3gw1e8e10yrxorj200p01e3ya.jpg",
   "description": "a api wrapper of api.23andme.com",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
